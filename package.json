@@ -92,7 +92,7 @@
     "eslint-plugin-ember": "7.10.1",
     "eslint-plugin-node": "11.1.0",
     "fastboot-app-server": "2.0.0",
-    "jstimezonedetect": "^1.0.6",
+    "jstimezonedetect": "^1.0.7",
     "loader.js": "^4.2.3",
     "phoenix": "1.4.14",
     "qunit-dom": "1.2.0",
