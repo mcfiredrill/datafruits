@@ -100,7 +100,7 @@
     "sinon": "^9.0.2",
     "stylelint-config-standard": "^20.0.0",
     "textcomplete": "^0.17.1",
-    "video.js": "7.7.6"
+    "video.js": "7.11.4"
   },
   "fastbootDependencies": [
     "crypto"
